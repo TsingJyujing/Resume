@@ -1,4 +1,7 @@
 # Resume of Yuan Yifan
+## Write ahead
+I'm looking for a **MACHINE LEARNING** job. My abilities is not limited in machine learning but my major work should be machine learning, this is really important.
+
 ## Basic info
 **Name:** Yuan Yifan
 
