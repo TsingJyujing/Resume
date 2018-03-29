@@ -50,7 +50,7 @@ Automobile theory, constructure and design.
 ## While Working...
 
 ### Driving Behaviour Analysis
-**DOING** Contribute ETL system, process raw data from HBase to MongoDB by using Spark (in Scala) and apply unsupervised learning on the data which extracted.
+**DOING** By using contribute ETL system, which processed raw data from HBase to MongoDB by using Spark (in Scala) and apply unsupervised learning on the data which extracted.
 
 ### Fault prediction
 By using logistic regression to predict which vehicle may out of order, also can analysis which behavior will cause the specific fault and predict before happing. The accuracy of algorithm can predict 80%. Although the program can predict fault of vehicle but it can't when it will happen precisely.
