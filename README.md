@@ -9,7 +9,9 @@ I'm looking for a **MACHINE LEARNING** job. My abilities is not limited in machi
 
 **Mail Address:** [TsingJyujing@163.com](mailto://TsingJyujing@163.com "TsingJyujing@163.com")
 
-**Tel:** 182-2085-2215
+**Tel:** 139-5158-8798
+
+**WeChat ID:** CingJyujeng
 
 ## Abilities
 
@@ -22,6 +24,8 @@ I'm looking for a **MACHINE LEARNING** job. My abilities is not limited in machi
 ### 2 Programming
 1. Have a good master of **MatLab, C and Python**;
 2. To be familiar with **Java** and Scala.
+3. Familiar with Django/Spring Boot(Java/Scala/Kotlin)/Spark(mainly in scala)/Keras
+4. Familiar with MongoDB/MySQL/PostgreSQL/HBase
 
 ### 3 Embedded Developing
 1. Have a good master of 51/Arm Cortex-M development;
@@ -41,7 +45,13 @@ Automobile theory, constructure and design.
 
 # Project Experiences
 
+**Mail me for more details**: [click here to mail me](mailto://TsingJyujing@163.com "TsingJyujing@163.com")
+
 ## While Working...
+
+### Driving Behaviour Analysis
+**DOING** Contribute ETL system, process raw data from HBase to MongoDB by using Spark (in Scala) and apply unsupervised learning on the data which extracted.
+
 ### Fault prediction
 By using logistic regression to predict which vehicle may out of order, also can analysis which behavior will cause the specific fault and predict before happing. The accuracy of algorithm can predict 80%. Although the program can predict fault of vehicle but it can't when it will happen precisely.
 
