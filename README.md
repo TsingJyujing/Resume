@@ -1,6 +1,6 @@
 # Resume of Yuan Yifan
 ## Write ahead
-I'm looking for a **MACHINE LEARNING** job. My abilities is not limited in machine learning but my major work should be machine learning, this is really important.
+I'm looking for a **MACHINE LEARNING** related job. My abilities is not limited in machine learning but my major work should be machine learning, this is really important.
 
 ## Basic info
 **Name:** Yuan Yifan
@@ -43,11 +43,23 @@ I'm looking for a **MACHINE LEARNING** job. My abilities is not limited in machi
 ### 6 Automobile Knowledge
 Automobile theory, constructure and design.
 
-# Project Experiences
+## Experiences
 
-**Mail me for more details**: [click here to mail me](mailto://TsingJyujing@163.com "TsingJyujing@163.com")
+|From|To|Corporation/College|Title|
+|-|-|-|-|
+|2017.12|Now|Shanghai CVNAVI network technology Co., Ltd.|Bigdata/Data-Mining Department Manager|
+|2015.08|2017.12|Shaanxi Heavy-duty Truck Company Limited|Data Analyst|
 
-## While Working...
+## Project Experiences While Working...
+
+**Mail me for more project details**: [click here to mail me](mailto://TsingJyujing@163.com "TsingJyujing@163.com")
+
+### Unsupervised Learning About Datawarehouse
+Apply unsupervised learning (like cluster and isolation-forest ...) on the feature we extracted.
+Providing an driving report for every user.
+
+### Datawarehouse Contribution
+Contribute datawarehouse for telematics data.
 
 ### Driving Behaviour Analysis
 **DOING** By using contribute ETL system, which processed raw data from HBase to MongoDB by using Spark (in Scala) and apply unsupervised learning on the data which extracted.
@@ -65,7 +77,6 @@ For detecting how many types of power requirement in out users, we used torque-p
 
 ### GPS Heatmap Cluster
 Some vehicles has it's specific working area, we cluster GPS-Heatmap by using manifold and k-means, and visualize the result.
-
 
 ### Driving Behaviour ETL System
 For machine learning and data visualization, we extract features from driving data, after cleaned and transformed, we put them into a MongoDB. It update weekly and it's distributed and can scale-out easily.
