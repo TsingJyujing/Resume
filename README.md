@@ -23,9 +23,11 @@ I'm looking for a **MACHINE LEARNING** related job. My abilities is not limited 
 
 ### 2 Programming
 1. Have a good master of **MatLab, C and Python**;
-2. To be familiar with **Java** and Scala.
-3. Familiar with Django/Spring Boot(Java/Scala/Kotlin)/Spark(mainly in scala)/Keras
-4. Familiar with MongoDB/MySQL/PostgreSQL/HBase
+2. To be familiar with **Java** and Scala;
+3. Familiar with Django/Spring Boot(Java/Scala/Kotlin);
+4. Familiar with MongoDB/MySQL/PostgreSQL;
+5. Familiar with Spark/HBase;
+6. Familiar with Keras/Scikit-Learn;
 
 ### 3 Embedded Developing
 1. Have a good master of 51/Arm Cortex-M development;
