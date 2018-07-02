@@ -47,9 +47,9 @@ Automobile theory, constructure and design.
 
 ## Experiences
 
-|From|To|Corporation/College|Title|
+|From|To|Corporation|Title|
 |-|-|-|-|
-|2017.12|Now|Shanghai CVNAVI network technology Co., Ltd.|Bigdata/Data-Mining Department Manager|
+|2017.12|Now|Shanghai CVNAVI network technology Co., Ltd.|Bigdata/Data-Mining Supervisor|
 |2015.08|2017.12|Shaanxi Heavy-duty Truck Company Limited|Data Analyst|
 
 ## Project Experiences While Working...
@@ -70,7 +70,7 @@ Contribute datawarehouse for telematics data.
 By using logistic regression to predict which vehicle may out of order, also can analysis which behavior will cause the specific fault and predict before happing. The accuracy of algorithm can predict 80%. Although the program can predict fault of vehicle but it can't when it will happen precisely.
 
 ### Correlation Analysis of Fuel-consumption and Driving Behaviour
-We have a dataset which all vehicles have same model and same load, by linear regression, which using fuel-consumption (L) per hundred kilometer as dependent variable and use driving behaviour as independent variable, we found some resaon of high fuel-consumption and try to reduce it by training drivers. 
+We have a dataset which all vehicles have same model and same load, by linear regression, which using fuel-consumption (L) per hundred kilometer as dependent variable and use driving behaviour as independent variable, we found some resaon of high fuel-consumption and try to reduce it by training drivers.
 
 After training, the drivers their fuel-consumption while working successfully.
 
