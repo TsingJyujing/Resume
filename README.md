@@ -15,6 +15,8 @@ I'm looking for a **MACHINE LEARNING** related job. My abilities is not limited 
 
 ## Abilities
 
+You may view my [open source project introduction](./ProjectIntroduction.md) for more details about me ^_^.
+
 ### 1 Machine Learning and Data Mining
 1. Traditional machine learning, include regression(bp-neural-network, SVR), classification algorithms(SVM, logistic regression, bp-neural-network), cluster(AP, k-means), dimensionaly reduction(PCA, LDA, maniflod DR methods like IsoMap,LLE), sequential predict like hidden markov model;
 2. Deeplearning, sequential predict network like RNN(LSTM), image recognition CNN and voice recognition CNN(CNN-1D);
