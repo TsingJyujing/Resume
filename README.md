@@ -23,10 +23,9 @@ Compiling YuanYifan's resume to PDF...
 Building English Resume
 Building Chinese Resume
 ```
-
 就代表编译成功了。
 
-你也可以到[TsingJyujing/Resume/releases](https://github.com/TsingJyujing/Resume/releases) 直接下载编译好的结果
+你也可以到 [Releases](https://github.com/TsingJyujing/Resume/releases) 直接下载编译好的结果
 
 ## 感谢
 
