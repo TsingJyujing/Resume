@@ -36,7 +36,6 @@ Building Chinese Resume
 - 修改使用的字体（你可以根据自己的需要调整编译的字体）
 - 减少行间距使得布局更加紧凑：`\setlength{\parskip}{4pt}`
 - 增加对表和紧凑列表的支持
-
 ```latex
 \usepackage{booktabs}
 \providecommand{\tightlist}{%
