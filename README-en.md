@@ -15,11 +15,10 @@
 * Jiangsu University
     - 2011.09 to 2015.11
     - Bachelor of Automobile Engineering
-
+    - Course Degree: 3.5
 
 ### Language Skills
 - English: College English Test - Level 6
-
 
 ## Professional Experience
 

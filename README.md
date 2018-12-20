@@ -2,6 +2,8 @@
 
 不能确保所有的语言的简历内容一致，根据不同的语言和习惯有所增减！
 
+你可以到 [Releases](https://github.com/TsingJyujing/Resume/releases) 直接下载编译好的结果。
+
 ## 编译
 
 你首先要预装好`Pandoc`
@@ -24,8 +26,6 @@ Building English Resume
 Building Chinese Resume
 ```
 就代表编译成功了。
-
-你也可以到 [Releases](https://github.com/TsingJyujing/Resume/releases) 直接下载编译好的结果
 
 ## 感谢
 
