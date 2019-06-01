@@ -6,25 +6,24 @@
 
 **Email:** [TsingJyujing@163.com](mailto://TsingJyujing@163.com "TsingJyujing@163.com")
 
-**Tel:** (86) 1395-158-8798
-
 **Github:** [http://github.com/tsingjyujing/](http://github.com/tsingjyujing/)
 
 ## Education
 
 * Jiangsu University
-    - 2011.09 to 2015.11
+    - 2011.09 to 2015.06
     - Course Degree: Bachelor of Automobile Engineering
-
-### Language Skills
-- English: College English Test - Level 6
 
 ## Professional Experience
 
-### Shanghai CVNAVI network technology Co., Ltd.
+### LINE Fukuoka Co,.Ltd.
+- Position: Machine Learning Engineer
+- Time: 2019.05 until now
+
+### Shanghai CVNAVI network technology Co.,Ltd.
 
 - Position: Big-Data Department Manager
-- Time: 2017.12 until Now
+- Time: 2017.12 until 2019.03
 
 ##### Built Data-Warehouse
 - Leaded big-data group to build batch computation ETL system by Apache Spark and Apache HBase;
